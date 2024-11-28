@@ -1,0 +1,11 @@
+1- Otkan dars uy ishida qilgan projectizni viewlarini Concrete View Clasess (Generic Views) lardan foydalanib,
+qayta yozib chiqing. +
+
+2- Viewlar ichida search, +
+2.2- ordering qilishni amalga oshiring. +
+
+3- Loyixaga permissionlar ulang. +
+
+4- Loyixani GitHub ga yuklang.
+
+5- 95-100 ball olmoqchi bo'lganlar Login, Register, Logout qismlari amalga oshiring.
